@@ -10,11 +10,11 @@
 	overflow:auto;
 	line-height:1.4;
 }
-div{
+div.test{
 	-webkit-overflow-scrolling:touch;
 	overflow:auto;
 }
-iframe{
+iframe.test{
 	width:100%;
 	height:258px;
 	padding:0px;
