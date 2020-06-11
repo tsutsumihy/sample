@@ -12,14 +12,13 @@
 }
 div.test{
 	height:288px;
+	padding:0px;
 	-webkit-overflow-scrolling:touch;
-	overflow:auto;
 }
 iframe.test{
 	width:100%;
 	height:100%;
-	padding:0px;
-	box-sizing:border-box;
+	border:none;
 	display:block;
 }
 /* ====== SP end ====== */
